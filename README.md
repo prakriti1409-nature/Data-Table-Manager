@@ -5,7 +5,8 @@ This project demonstrates real-world UI state management, dynamic columns, CSV i
 
 ---
 
- ##🚀 **Deployed on Vercel:** :  https://data-table-manager-liart.vercel.app/
+ ## 🚀 Deployed on Vercel 
+ https://data-table-manager-liart.vercel.app/
 
 ---
 
